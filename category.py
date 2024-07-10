@@ -157,3 +157,4 @@ if __name__=="__main__":
     root=Tk()
     obj=categoryClass(root)
     root.mainloop()
+    .
